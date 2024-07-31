@@ -12,7 +12,7 @@ This is a Tkinter program that encrypts plain texts using the ceaser cipher
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone [https://github.com/Divineranking/caesar-cipher-gui.git
+    git clone https://github.com/Divineranking/PRODIGY_CS_01.git
     cd caesar-cipher-gui](https://github.com/Divineranking/PRODIGY_CS_01.git)
     ```
 
